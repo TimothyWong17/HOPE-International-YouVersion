@@ -1,4 +1,4 @@
-# HOPE-International-YouVersion
+# HOPE International YouVersion
 
 During my 2017 summer internship at HOPE International, I was tasked with creating a landing page that would link to a variety of our YouVersion Bible Study Plans.
 
